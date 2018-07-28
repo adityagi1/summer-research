@@ -1,0 +1,7 @@
+The following files are included:
+
+(1): data_structures.py: A support .py file containing queue and graph data structures I created for the algorithm
+(2): ford_fulk.py: The main file containing the implementation of the Edmund-Karps implementation of the Ford-Fulkerson method 
+(3): max_flow_testing.py: The driver testing program that tests ford_fulk.py using two basic graphs. 
+
+You just need to run the max_flow_testing.py program to see the program results.
