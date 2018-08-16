@@ -1,3 +1,13 @@
+-------->Continous Knapsack Solution Implementation<-----------
+The following files are added:
+(1): knapsack_LP.py: Contains my implementation of the solution to the continuous knapsack problem
+(2): knapsack_LP_testing.py: Contains a simple test case for the solution implementation in the above file. 
+
+--------> Simply run the knapsack_LP_testing.py file to test the actual implementation.  
+
+
+
+------> Ford-Fulkerson Max Flow Implementation <--------
 The following files are included:
 
 (1): data_structures.py: A support .py file containing queue and graph data structures I created for the algorithm
